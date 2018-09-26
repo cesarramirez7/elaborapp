@@ -1,0 +1,150 @@
+@font-face {
+  font-family: "Lato-Black";
+  src:url(fonts/Lato-Black.ttf) format("truetype");
+
+ 
+}
+@font-face {
+  font-family: "Lato-Light";
+  src:url(fonts/Lato-Light.ttf) format("truetype");
+  
+ 
+}
+@font-face {
+  font-family: "SansSerifFLF";
+  src:url(fonts/SansSerifFLF.otf) format("opentype");
+  
+ 
+}
+#conocenosss {
+    font-family: "Lato-Black";
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    top: 5px;
+    position: relative;
+}
+#servicio{
+	
+	font-family:"SansSerifFLF";
+	text-transform: uppercase;
+	
+}
+.pie{
+	
+	font-family:"SansSerifFLF";
+	font-size: 21px;
+	
+}
+.modaal{
+	font-family:"SansSerifFLF";
+
+}
+.tex{
+	font-family:"Lato-Black";
+color: #fff;
+text-transform: uppercase;
+
+}
+.tx{
+	font-family:"Lato-Black";
+
+text-transform: uppercase;
+
+}
+.letra{
+	font-family:"SansSerifFLF";
+font-size: 19px;
+	text-align: center;
+
+}
+
+#lato{
+	font-family:"Lato-Light";
+    color: #777;
+	text-transform: uppercase;
+	
+}
+#mensaje{
+	font-family:"Lato-Black";
+	color: #fff;
+	text-transform: uppercase;
+	    padding: 5px 90px;
+	    margin: 10px 20px;
+	    letter-spacing: 2px;
+
+}
+#client{
+	font-family:"Lato-Black";
+	font-size: 45px;
+}
+.cen{
+	font-family:"Lato-Black";
+	font-size: 30px;
+	text-align: center;
+
+}
+.cent{
+	font-family:"Lato-Black";
+	font-size: 40px;
+	text-align: center;
+}
+
+
+#conocenos{
+font-family: "Lato-Black";
+    padding: 5px 90px;
+    letter-spacing: 2px;
+    top: -60px;
+    text-transform: uppercase;
+    position: relative;
+
+   
+   
+}
+
+.contc{
+	text-transform: uppercase;
+
+}
+
+
+.texx{
+	font-family: "Lato-Light";
+
+color: #fff;
+}
+
+.txx{
+	font-family: "Lato-Light";
+color: #000;
+
+}
+
+.botones{
+	font-family: "Lato-Light";
+text-transform: uppercase;
+
+
+	
+}
+#trabajoss{
+font-family: "Lato-Light";
+text-align: center;
+text-transform: uppercase;
+
+}
+#nuestros{
+	font-family: "Lato-Light";
+font-size: 45px;
+text-transform: uppercase;
+text-align: center;
+}
+
+#nuestro{
+	font-family: "Lato-Black";
+font-size: 45px;
+text-transform: uppercase;
+}
+
+
+

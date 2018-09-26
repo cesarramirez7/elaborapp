@@ -1,0 +1,789 @@
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+      #imgs {
+    position: relative;
+    right: -5%;
+    width: 44%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}.columna {
+    width: 50%;
+}
+.colum {
+    width: 100%;
+}
+.cruz {
+    width: 17%;
+    top: -3px;
+   
+}
+.as{
+      font-size: 18px;
+}
+.botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 6px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+#trabajoss {
+    font-family: "Lato-Light";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 79%;
+}
+#nuestros {
+    font-family: "Lato-Light";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#nuestro {
+    font-family: "Lato-Black";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+  font-size: 71%;
+}
+.espacio{
+  top: 100px;
+
+}
+.espacios{
+
+   top: 40px;
+}
+.tamano{
+  font-size: 57%;
+}
+.elaborapp{
+  font-size: 80%;
+}
+.toper{
+  top: 100px;
+}
+.center{
+  right: -82px;
+ 
+}#logos {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}#logoss {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}
+.tex {
+    
+    font-size: 55%;
+}
+.texx {
+    font-family: "Lato-Light";
+    color: #fff;
+    font-size: 75%;
+}
+.overla {
+    top: 0px;
+    position: relative;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+     #imgs {
+    position: relative;
+    right: -5%;
+    width: 22%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}
+.as{
+      font-size: 18px;
+}
+.botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 8px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+#trabajoss {
+    font-family: "Lato-Light";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 79%;
+}
+#nuestros {
+    font-family: "Lato-Light";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#nuestro {
+    font-family: "Lato-Black";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+  font-size: 71%;
+}
+.espacio{
+  top: 100px;
+
+}
+.espacios{
+
+   top: 40px;
+}
+.tamano{
+  font-size: 57%;
+}
+.elaborapp{
+  font-size: 80%;
+}
+.toper{
+  top: 100px;
+}
+.center{
+  right: -82px;
+ 
+}
+.btn {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 32px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.tex {
+    
+    font-size: 105%;
+}
+.overla {
+    top: 58px;
+    position: relative;
+}
+
+}
+
+/* ----------- iPhone 6 and 6s----------- */
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+    .botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 8px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}.columna {
+    width: 50%;
+}
+.colum {
+    width: 100%;
+}
+.cruz {
+    width: 17%;
+    top: -7px;
+   
+}
+#logos {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}#logoss {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.tex {
+    font-family: "Lato-Black";
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 70%;
+}
+.texx {
+    font-family: "Lato-Light";
+    color: #fff;
+    font-size: 75%;
+}
+.overla {
+    top: 10px;
+    position: relative;
+}#imgs {
+    position: relative;
+    right: -5%;
+    width: 40%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}
+
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+ #imgs {
+    position: relative;
+    right: -5%;
+    width: 22%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}
+
+  .botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 8px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+#trabajoss {
+    font-family: "Lato-Light";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 79%;
+}
+#nuestros {
+    font-family: "Lato-Light";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#nuestro {
+    font-family: "Lato-Black";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+  font-size: 71%;
+}
+.tamano{
+  font-size: 57%;
+}
+.elaborapp{
+  font-size: 80%;
+}
+.btn {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 32px;
+}
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.tex {
+    
+    font-size: 128%;
+}
+.overla {
+    top: 58px;
+    position: relative;
+}
+
+
+
+}
+/* Nexus 6p */
+@media only screen
+and (min-device-width: 412px)
+and (max-device-width: 732px)
+and (orientation:portrait) {
+    #imgs {
+    position: relative;
+    right: -7%;
+    width: 36%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}
+.colum {
+    width: 100%;
+}
+.columna {
+    width: 50%;
+}
+    .cruz {
+    width: 17%;
+    top: 25px;
+   
+}
+    .moodal{
+         width: 100%;
+
+    }
+}
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+   #imgs {
+    position: relative;
+    right: 0%;
+    width: 36%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    right: -30px;
+}
+.cruz {
+    width: 17%;
+    top: 5px;
+   
+}
+#logos {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}#logoss {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}
+   .botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 8px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+
+#trabajoss {
+    font-family: "Lato-Light";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 79%;
+}
+#nuestros {
+    font-family: "Lato-Light";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#nuestro {
+    font-family: "Lato-Black";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+  font-size: 71%;
+}
+.tamano{
+  font-size: 57%;
+}
+.elaborapp{
+  font-size: 80%;
+}
+.overla {
+    top: 10px;
+    position: relative;
+}
+.tex {
+    
+    font-size:70%;
+}
+.moodal{
+     width: 100%;
+
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+#imgs {
+    position: relative;
+    right: 0%;
+    width: 20%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    right: -30px;
+}
+.btn {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 32px;
+}
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.tex {
+    
+    font-size: 128%;
+}
+.overla {
+    top: 58px;
+    position: relative;
+}
+
+
+}
+
+/* ----------- Galaxy S5 ----------- */
+
+
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+  #imgs {
+    position: relative;
+    right: -5%;
+    width: 44%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}.columna {
+    width: 50%;
+}
+.colum {
+    width: 100%;
+}
+.cruz {
+    width: 17%;
+    top: -3px;
+   
+}
+#logos {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}#logoss {
+    width: 50%;
+    top: 24px;
+    position: relative;
+}
+.botones {
+    display: inline-block;
+    /* padding: 2px 3px; */
+    margin-bottom: 0;
+    font-size: 8px;
+    font-weight: normal;
+    line-height: 1.528571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 35px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.center {
+    right: -82px;
+}
+#trabajoss {
+    font-family: "Lato-Light";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 79%;
+}
+#nuestros {
+    font-family: "Lato-Light";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#nuestro {
+    font-family: "Lato-Black";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+  font-size: 71%;
+}
+.tamano{
+  font-size: 57%;
+}
+.elaborapp{
+  font-size: 80%;
+}
+.tex {
+    
+    font-size:70%;
+}
+.texx {
+    
+    font-size: 75%;
+}
+.overla {
+    top: 7px;
+    position: relative;
+}
+.moodal{
+     width: 100%;
+
+}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+ #imgs {
+    position: relative;
+    right: -5%;
+    width: 28%;
+    /* height: 80%; */
+    margin-left: auto;
+    margin-right: auto;
+    top: 13px;
+}
+.btn {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 32px;
+}
+.btn-default {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00d0f0;
+}
+.tex {
+    
+    font-size: 128%;
+}
+.overla {
+    top: 58px;
+    position: relative;
+}
+
+
+  }
+
+
+
+
+
+
+
